@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Vicky27022000
-  <br>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-vicky
+- 👋 Hi, I’m Vicky Chavan
+- 👀 I’m interested in Dot Net Development
+- 🌱 I’m currently learning ASP.NET MVC
+- 💞️ I’m looking to collaborate on an ERP Project
+- 📫 How to reach me Mo. No-8806847920
+
 
 
